@@ -1,3 +1,3 @@
 1. place this file and create a new text file in same folder.
 2. go to commmand prompt and then locate the file using cd command.
-3.for ex. for copy file put ("name of c file" "name of source textfile.txt" "name of destination textfile.txt") 
+3.for ex. for copy file put ("name of c file" "name of source textfile.txt" "name of destination textfile.txt") .
